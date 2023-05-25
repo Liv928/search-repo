@@ -1,5 +1,5 @@
 # Search Repo with element-starter
-![alt text](https://github.com/Liv928/search-repo/blob/master/img/search_repo.jpg?raw=true)
+![alt text](https://github.com/Liv928/search-repo/blob/master/img/search_repo_layout.png?raw=true)
 
 ## Environment
 
