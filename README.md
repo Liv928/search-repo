@@ -1,6 +1,29 @@
-To Run this project
-make sure you have installed npm and node.js
+# Search Repo with element-starter
+![alt text](https://github.com/Liv928/search-repo/blob/master/img/search_repo.jpg?raw=true)
 
-1. run 'yarn'
-2. run 'npm run dev'
-3. open the project in your browser
+## Environment
+
+`Node >= 6`
+
+## Start
+
+ - Clone or download this repository
+ - Enter your local directory, and install dependencies:
+
+``` bash
+yarn
+```
+
+## Develop
+
+``` bash
+# serve with hot reload at localhost:8010
+npm run dev
+```
+
+## Build
+
+``` bash
+# build for production with minification
+npm run build
+```
